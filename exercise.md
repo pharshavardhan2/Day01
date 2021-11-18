@@ -16,7 +16,7 @@
         name : "harsha",
         id   : 2021,
         skills : ["java", "webdev"],
-        "dept name" : marketing,
+        "dept name" : "marketing",
         displayInfo: function() {
             console.log(`${employee.name} whose id is ${employee.id} works in department ${employee["dept name"]}.`);
         }
